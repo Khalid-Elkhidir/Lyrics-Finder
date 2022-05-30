@@ -6,3 +6,6 @@ Technologies used:
 - REST Api integration
 - Web scraping 
 - App linking
+- Bloc state management
+- Repository patters
+- Domain Driven Design
