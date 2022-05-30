@@ -9,3 +9,5 @@ Technologies used:
 - Bloc state management
 - Repository patters
 - Domain Driven Design
+- Functional programming
+- Dependency injection
